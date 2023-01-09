@@ -5,6 +5,12 @@
 * atualmente, sou estudante do curso técnico de TI pela UFRN;
 * estou estudando para me tornar um desenvolvedor Front-End;
 
+## Formação:
+### Tecnólogo em Tecnologia da Informação:
+- Formação em Programação Básica (JAN-JUL 2022)
+- Formação Básica em Programação para Internet (JUL-DEZ 2022)
+- Formação Avançada em Programação para Internet (EM ANDAMENTO)
+
 
 
 ## Linguagens e Ferramentas:

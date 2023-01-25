@@ -25,5 +25,4 @@
 
 ## :bar_chart: GitHub Stats:
 <img height="180em" src="https://streak-stats.demolab.com?user=felipemadu13&theme=dark&hide_border=true"/> <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemadu13&layout=compact&theme=dark)"/>
 

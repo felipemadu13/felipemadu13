@@ -2,8 +2,7 @@
 
 * sou formado em Publicidade e Propaganda pela UFRN;
 * trabalhei com produção de eventos, edição de vídeo e como gerente de redes sociais;
-* atualmente, sou estudante do curso técnico de TI pela UFRN;
-* estou estudando para me tornar um desenvolvedor Front-End;
+* sou estudante do curso técnico de TI pela UFRN;
 
 ## :man_student: Formação:
 ### Técnico em Tecnologia da Informação (IMD/UFRN):

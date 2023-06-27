@@ -27,6 +27,9 @@
    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 </div>
 
+## :fire: Projetos em Andamento:
+### To Do List - Java
+_To Do List_ usando Spring Boot e Thymeleaf.
 
 ## :bar_chart: GitHub Stats:
 <img height="180em" src="https://streak-stats.demolab.com?user=felipemadu13&theme=dark&hide_border=true"/> <br>

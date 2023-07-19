@@ -2,7 +2,7 @@
 
 * sou formado em Publicidade e Propaganda pela UFRN;
 * trabalhei com produção de eventos, edição de vídeo e como gerente de redes sociais;
-* sou estudante do curso técnico de TI pela UFRN;
+* sou estudante do curso de Sistemas para Internet pelo IFRN;
 
 ## :man_student: Formação:
 ### Tecnologia em Sistemas para Internet (IFRN) (2023.2 - ATUAL)

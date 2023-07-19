@@ -6,10 +6,10 @@
 
 ## :man_student: Formação:
 ### Tecnologia em Sistemas para Internet (IFRN) (2023.2 - ATUAL)
-### Técnico em Tecnologia da Informação (IMD/UFRN) (2022.1 - ATUAL):
-- Formação em Programação Básica (JAN-JUL 2022)
-- Formação Básica em Programação para Internet (JUL-DEZ 2022)
-- Formação Avançada em Programação para Internet (EM ANDAMENTO)
+### Técnico em Tecnologia da Informação (IMD/UFRN) (2022 - 2023):
+- Formação em Programação Básica
+- Formação Básica em Programação para Internet
+- Formação Avançada em Programação para Internet
 
 
 

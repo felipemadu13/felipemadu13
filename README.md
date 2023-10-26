@@ -33,8 +33,8 @@
 </div>
 
 ## :fire: Projetos em Andamento:
-### CRUD - PHP
-_CRUD_ usando PHP e PDO
+### CRUD - LARAVEL
+_CRUD_ usando Laravel
 
 ## :bar_chart: GitHub Stats:
 <img height="180em" src="https://streak-stats.demolab.com?user=felipemadu13&theme=dark&hide_border=true"/> <br>

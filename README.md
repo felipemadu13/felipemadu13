@@ -33,8 +33,12 @@
 </div>
 
 ## :fire: Projetos em Andamento:
-### CRUD - LARAVEL
-_CRUD_ usando Laravel
+### DOBRO
+Sistema de calculo de pontuação para o jogo Dobro.
+
+## :star: Projetos em Destaque:
+### LOGIN LARAVEL COM JWT
+Serviço de autenticação feito em Laravel com autenticação e autorização JWT.
 
 ## :bar_chart: GitHub Stats:
 <img height="180em" src="https://streak-stats.demolab.com?user=felipemadu13&theme=dark&hide_border=true"/> <br>

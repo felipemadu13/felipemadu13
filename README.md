@@ -25,8 +25,6 @@
 ## :fire: Projetos em Andamento:
 
 ## :star: Projetos em Destaque:
-### [LOGIN LARAVEL COM JWT](https://github.com/felipemadu13/login_laravel_jwt/blob/42bc798551aecf67a0079ada0a9aa695aaeaf85f/README.md)
-Serviço de autenticação feito em Laravel com autenticação e autorização JWT.
 
 ## :bar_chart: GitHub Stats:
 <img height="180em" src="https://streak-stats.demolab.com?user=felipemadu13&theme=dark&hide_border=true"/> <br>

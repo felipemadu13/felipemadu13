@@ -1,12 +1,10 @@
 ## 	:zap: Meu nome é Felipe Madureira, e... ###
 
-* sou formado em Publicidade e Propaganda pela UFRN;
 * sou estudante do curso de BTI pela UFRN;
 
 ## :man_student: Formação:
 ### Bacherelado em Tecnologia da Informação (IMD/UFRN) (2025.1 - ATUAL)
 ### Residência em Tecnologia da Informação (IMD/TCE) (2024.2 - ATUAL)
-### Tecnologia em Sistemas para Internet (IFRN) (2023.2 - INTERROMPIDO)
 ### Técnico em Informática para Internet (IMD/UFRN) (2022 - 2023)
 
 ## :computer: Linguagens e Ferramentas:

@@ -20,6 +20,3 @@
 
 ## :star: Projetos em Destaque:
 
-## :bar_chart: GitHub Stats:
-<img height="180em" src="https://streak-stats.demolab.com?user=felipemadu13&theme=dark&hide_border=true"/> <br>
-
